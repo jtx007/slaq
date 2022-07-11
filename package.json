@@ -2,6 +2,7 @@
   "name": "slaq",
   "version": "0.0.46",
   "dependencies": {
+    "framer-motion": "^6.4.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "web-vitals": "^1.0.1"
@@ -14,7 +15,8 @@
     ]
   },
   "devDependencies": {
-    "typescript": "latest",
-    "react-refresh": "0.10.0"
+    "@types/react": "^18.0.15",
+    "react-refresh": "0.10.0",
+    "typescript": "latest"
   }
 }
